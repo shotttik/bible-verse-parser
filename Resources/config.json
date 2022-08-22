@@ -1,0 +1,9 @@
+{
+    "browser": "chrome",
+    "base_url": "https://bible.com/",
+    "options": [
+        "--incognito",
+        "--start-maximized"
+    ],
+    "wait_time": 10
+}
